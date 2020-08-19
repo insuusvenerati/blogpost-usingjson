@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Portfolio",
+    "image": "portfolio.png",
+    "coolness": 3,
+    "emoji": "📘"
+  },
+  {
+    "name": "Weather App",
+    "image": "weather-app.png",
+    "coolness": 1,
+    "emoji": "🌨️"
+  },
+  {
+    "name": "Pokedex",
+    "image": "pokedex.png",
+    "coolness": 5,
+    "emoji": "🔮"
+  },
+  {
+    "name": "Animal Crossing App",
+    "image": "animalcrossing.png",
+    "coolness": 5,
+    "emoji": "🐄"
+  }
+]
